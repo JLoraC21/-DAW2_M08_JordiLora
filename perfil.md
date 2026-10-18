@@ -16,7 +16,7 @@ Mi nombre es **Jordi Lora Cuevas**. Soy estudiante del Thos I Codina, específic
 3. Death Note
 ---
 ### Lista de música
-- Boys Don't Cry
+- Oh que sera (Oh, qué será?)
 - It's snowing like it's the end of the world
 - As the world caves in
 ---
@@ -29,13 +29,13 @@ Mi nombre es **Jordi Lora Cuevas**. Soy estudiante del Thos I Codina, específic
 ### Tabla de tecnologias
 | Tecnologia | Nivel Actual | Recursos                                      |
 | ---------- | ------------ | --------------------------------------------- |
-| Github     | Bajo         | [GitHub](https://github.com/)                 |
-| Trello     | Medio        | [Trello](https://home.atlassian.com/)         |
+| Github     | Medio        | [GitHub](https://github.com/)                 |
+| Trello     | Alto         | [Trello](https://home.atlassian.com/)         |
 | Excel      | Medio        | [Excel](https://excel.cloud.microsoft/en-us/) |
 ---
 ### Codigo JavaScript
 ```javascript
-console.log("Hola")
+console.log("Ahora sé más!")
 ```
 ---
 ### Cita
