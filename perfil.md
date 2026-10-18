@@ -35,7 +35,7 @@ Mi nombre es **Jordi Lora Cuevas**. Soy estudiante del Thos I Codina, específic
 ---
 ### Codigo JavaScript
 ```javascript
-console.log("Ahora sé más!")
+console.log("Me gustan los patos!")
 ```
 ---
 ### Cita
